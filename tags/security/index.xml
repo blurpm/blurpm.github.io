@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on Dojo Viz</title>
+    <link>/tags/security/</link>
+    <description>Recent content in security on Dojo Viz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Dec 2023 20:39:12 +0300</lastBuildDate><atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Audit</title>
+      <link>/posts/sec/</link>
+      <pubDate>Wed, 27 Dec 2023 20:39:12 +0300</pubDate>
+      
+      <guid>/posts/sec/</guid>
+      <description>the web3 Security Audit
+Extreme Measure : Separating everything with already hardened laptops. You can DIY your laptop like that, but it needs tons of time and research, so if you like this stuff, it is always good to know but not recommended for non-tech people. 🔗General Usage Tips : General usage suggestions applied to all computers and operating systems. BUT I will not suggest using Windows. Linux &amp;gt; MacOS &amp;gt; Windows.</description>
+    </item>
+    
+  </channel>
+</rss>
