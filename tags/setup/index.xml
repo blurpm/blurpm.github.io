@@ -6,24 +6,15 @@
     <description>Recent content in setup on Dojo Viz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 20:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 20:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic settings for Firefox</title>
       <link>/posts/setup/</link>
-      <pubDate>Thu, 28 Dec 2023 20:39:12 +0300</pubDate>
+      <pubDate>Fri, 29 Dec 2023 20:39:12 +0300</pubDate>
       
       <guid>/posts/setup/</guid>
       <description>Settings for freshly installed Firefox. 🔗In the firefox: 🔗In settings:
 Disable *Enable Picture-in-picture video controls* Set home pages to black page Disable all Home Content Set your default search engine to DuckDuckGo and disable the links of others. Disable *Provide search suggestions* Set Enhanced Tracking Protection to *strict* Enable *Delete cookies and site data when Firefox* Disable Ask to save logins and password for websites Disable keeping history Block permissions for location, camera, microphone and notifications Disable Firefox Data Collection and Usa Enable HTTPS-Only Mode in all windows.</description>
-    </item>
-    
-    <item>
-      <title>Home Network</title>
-      <link>/posts/homenetwork/</link>
-      <pubDate>Tue, 26 Dec 2023 20:39:12 +0300</pubDate>
-      
-      <guid>/posts/homenetwork/</guid>
-      <description>My personal suggestions and usage for home network. 🔗 Insurgo laptop with Qubes OS  - Trading: Has only firefox installed with metamask. All important links are already bookmarked. It goes through Tor + VPN (dedicated IP) so that I don&#39;t always see captcha errors. - Vault: All my licenses, passwords, and everything is stored here, with no internet connection. Even if this is compromised, there is no problem as I use 2fa for all critical accounts.</description>
     </item>
     
   </channel>
