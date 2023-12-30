@@ -6,7 +6,17 @@
     <description>Recent content in security on Dojo Viz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 22:39:12 +0300</lastBuildDate><atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 03:39:12 +0300</lastBuildDate><atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic settings for Firefox</title>
+      <link>/posts/setup/</link>
+      <pubDate>Fri, 29 Dec 2023 03:39:12 +0300</pubDate>
+      
+      <guid>/posts/setup/</guid>
+      <description>Settings for freshly installed Firefox. 🔗In the firefox: 🔗In settings:
+Disable *Enable Picture-in-picture video controls* Set home pages to black page Disable all Home Content Set your default search engine to DuckDuckGo and disable the links of others. Disable *Provide search suggestions* Set Enhanced Tracking Protection to *strict* Enable *Delete cookies and site data when Firefox* Disable Ask to save logins and password for websites Disable keeping history Block permissions for location, camera, microphone and notifications Disable Firefox Data Collection and Usa Enable HTTPS-Only Mode in all windows.</description>
+    </item>
+    
     <item>
       <title>web3 Security Audit</title>
       <link>/posts/sec/</link>
