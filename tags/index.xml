@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Dojo Viz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2023 03:39:12 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 21:39:12 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Sun, 31 Dec 2023 21:39:12 +0300</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>security</title>
       <link>/tags/security/</link>
-      <pubDate>Fri, 29 Dec 2023 03:39:12 +0300</pubDate>
+      <pubDate>Sat, 30 Dec 2023 20:39:12 +0300</pubDate>
       
       <guid>/tags/security/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>setup</title>
       <link>/tags/setup/</link>
-      <pubDate>Fri, 29 Dec 2023 03:39:12 +0300</pubDate>
+      <pubDate>Sat, 30 Dec 2023 20:39:12 +0300</pubDate>
       
       <guid>/tags/setup/</guid>
       <description></description>

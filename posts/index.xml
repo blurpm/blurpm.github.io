@@ -6,7 +6,26 @@
     <description>Recent content in Posts on Dojo Viz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2023 03:39:12 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 21:39:12 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EMF Suggestions</title>
+      <link>/posts/emf/</link>
+      <pubDate>Sun, 31 Dec 2023 21:39:12 +0300</pubDate>
+      
+      <guid>/posts/emf/</guid>
+      <description>Simple EMF Suggestions
+Shopping List : Must have stuff to measure and be protected from EMF. 🔗Protection Tips : Some stuff do not worth the loss of health. There will be some simple tips and tricks to be protected from daily EMF exposure. 🔗 Shopping List 🔗  https://www.amazon.com/gp/product/B078T2R64C TriField EMF Meter Model TF2 One of the best EMF meter for non professional work. It has standard, weighted and RF settings and battery lasts really long.</description>
+    </item>
+    
+    <item>
+      <title>Home Network</title>
+      <link>/posts/homenetwork/</link>
+      <pubDate>Sat, 30 Dec 2023 20:39:12 +0300</pubDate>
+      
+      <guid>/posts/homenetwork/</guid>
+      <description>My personal suggestions and usage for home network. 🔗 Insurgo laptop with Qubes OS  - Trading: Has only firefox installed with metamask. All important links are already bookmarked. It goes through Tor + VPN (dedicated IP) so that I don&#39;t always see captcha errors. - Vault: All my licenses, passwords, and everything is stored here, with no internet connection. Even if this is compromised, there is no problem as I use 2fa for all critical accounts.</description>
+    </item>
+    
     <item>
       <title>Basic settings for Firefox</title>
       <link>/posts/setup/</link>
