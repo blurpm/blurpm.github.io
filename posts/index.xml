@@ -23,7 +23,8 @@ Shopping List : Must have stuff to measure and be protected from EMF. 🔗Protec
       <pubDate>Sat, 30 Dec 2023 20:39:12 +0300</pubDate>
       
       <guid>/posts/homenetwork/</guid>
-      <description>My personal suggestions and usage for home network. 🔗 Insurgo laptop with Qubes OS  - Trading: Has only firefox installed with metamask. All important links are already bookmarked. It goes through Tor + VPN (dedicated IP) so that I don&#39;t always see captcha errors. - Vault: All my licenses, passwords, and everything is stored here, with no internet connection. Even if this is compromised, there is no problem as I use 2fa for all critical accounts.</description>
+      <description>My personal suggestions and usage for home network. 🔗Insurgo laptop with Qubes OS
+ Trading: Has only firefox installed with metamask. All important links are already bookmarked. It goes through Tor + VPN (dedicated IP) so that I don&amp;rsquo;t always see captcha errors. Vault: All my licenses, passwords, and everything is stored here, with no internet connection. Even if this is compromised, there is no problem as I use 2fa for all critical accounts.</description>
     </item>
     
     <item>
