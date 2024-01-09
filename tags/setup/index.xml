@@ -6,7 +6,21 @@
     <description>Recent content in setup on Dojo Viz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 20:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jan 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GrapheneOS App Suggestions</title>
+      <link>/posts/graphene/</link>
+      <pubDate>Tue, 09 Jan 2024 03:39:12 +0300</pubDate>
+      
+      <guid>/posts/graphene/</guid>
+      <description>GrapheneOS app suggestions
+GrapheneOS is an opensource operating system for Pixel phones aimed to be the most secure and private OS for mobile phones.
+It has some flaws as it sandboxes everything even Google Services. But nothing is unusable at least for my usage. Only thing I encounder, some notifications might delay like whatsapp.
+Here you can find some Tips&amp;amp;Tricks and App suggestions.
+Tips &amp;amp; Tricks
+ Use work profile for banking apps, just to add an extra layer of security.</description>
+    </item>
+    
     <item>
       <title>Home Network</title>
       <link>/posts/homenetwork/</link>
