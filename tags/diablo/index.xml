@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diablo on Dojo Viz</title>
+    <link>/tags/diablo/</link>
+    <description>Recent content in diablo on Dojo Viz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2024 01:39:12 +0300</lastBuildDate><atom:link href="/tags/diablo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BvB Setup</title>
+      <link>/posts/bvb/</link>
+      <pubDate>Sat, 27 Jan 2024 01:39:12 +0300</pubDate>
+      
+      <guid>/posts/bvb/</guid>
+      <description>BvB PvP Guide
+I know you never expected that, me neither. However I am playing diablo since the day Diablo 3 released. And always have been a fan of barbarian, especially WW barb.
+so I will give some information about how to utilize a great BvB Barbarian PvP character with extra info about other setups. This will be a short one since the other big part is the experince.
+First things first!</description>
+    </item>
+    
+  </channel>
+</rss>
