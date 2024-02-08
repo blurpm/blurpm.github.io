@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chess on Dojo Viz</title>
+    <link>/tags/chess/</link>
+    <description>Recent content in chess on Dojo Viz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chess Life</title>
+      <link>/posts/chess/</link>
+      <pubDate>Thu, 08 Feb 2024 03:39:12 +0300</pubDate>
+      
+      <guid>/posts/chess/</guid>
+      <description>Chess is NOT a metaphor for life
+Life is a metaphor for Chess.
+ When first starting out, anything less than 10 minute games is merely A Race To See Who Can Make MORE Mistakes FASTER. Stop that Shit! Get Smart, Go Slow.  An excellent resource for training openings is https://listudy.org/en
+For beginners, stick to the basics:
+ Develop Knights and Bishops before Queen and Rooks Play to control the centre Castle to secure the King Connect Rooks  The chessboard, just like our lives, is large.</description>
+    </item>
+    
+  </channel>
+</rss>
