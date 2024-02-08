@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>health on Dojo Viz</title>
+    <title>health on Viz Dojo</title>
     <link>/tags/health/</link>
-    <description>Recent content in health on Dojo Viz</description>
+    <description>Recent content in health on Viz Dojo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Dec 2023 21:39:12 +0300</lastBuildDate><atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
