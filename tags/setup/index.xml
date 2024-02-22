@@ -6,7 +6,21 @@
     <description>Recent content in setup on Viz Dojo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Host your VPN</title>
+      <link>/posts/vpn/</link>
+      <pubDate>Thu, 22 Feb 2024 03:39:12 +0300</pubDate>
+      
+      <guid>/posts/vpn/</guid>
+      <description>Host VPN on your own VPS
+OpenVPN
+OpenVPN is an open-source commercial software that implements virtual private network (VPN) techniques.
+DigitalOcean
+Since we are going to host our own VPN, first we need a server, and DigitalOcean is easy to start with, you can also try AWS or Google Cloud if you want more options.
+Sign Up for DigitalOcean account. https://m.do.co/c/33207b814f8b if you use this link, you will get $200 for 60 days.</description>
+    </item>
+    
     <item>
       <title>GrapheneOS App Suggestions</title>
       <link>/posts/graphene/</link>

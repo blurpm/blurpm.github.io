@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Viz Dojo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 03:39:12 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>setup</title>
+      <link>/tags/setup/</link>
+      <pubDate>Thu, 22 Feb 2024 03:39:12 +0300</pubDate>
+      
+      <guid>/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vpn</title>
+      <link>/tags/vpn/</link>
+      <pubDate>Thu, 22 Feb 2024 03:39:12 +0300</pubDate>
+      
+      <guid>/tags/vpn/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>chess</title>
       <link>/tags/chess/</link>
@@ -40,15 +58,6 @@
       <pubDate>Mon, 15 Jan 2024 03:39:12 +0300</pubDate>
       
       <guid>/tags/web3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>setup</title>
-      <link>/tags/setup/</link>
-      <pubDate>Tue, 09 Jan 2024 03:39:12 +0300</pubDate>
-      
-      <guid>/tags/setup/</guid>
       <description></description>
     </item>
     

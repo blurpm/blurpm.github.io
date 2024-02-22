@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>Viz Dojo</title>
+    <title>Host your VPN | Viz Dojo</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="Dojo Log">
+<meta name="description" content="Host VPN on your own VPS
+OpenVPN
+OpenVPN is an open-source commercial software that implements virtual private network (VPN) techniques.
+DigitalOcean
+Since we are going to host our own VPN, first we need a server, and DigitalOcean is easy to start with, you can also try AWS or Google Cloud if you want more options.
+Sign Up for DigitalOcean account. https://m.do.co/c/33207b814f8b if you use this link, you will get $200 for 60 days.">
 <meta name="generator" content="Hugo 0.92.2" />
 
 
@@ -23,11 +28,6 @@
 
 
 
-
-  
-    <link href="/tags/index.xml" rel="alternate" type="application/rss+xml" title="Viz Dojo" />
-    <link href="/tags/index.xml" rel="feed" type="application/rss+xml" title="Viz Dojo" />
-  
 
 
 
@@ -52,91 +52,84 @@
 
     <main class="main">
       
-<header class="profile">
+
+<section id="single">
+    <h1 class="title">Host your VPN</h1>
+
+    <div class="tip">
+        <time datetime="2024-02-22 03:39:12 &#43;0300 &#43;03">Feb 22, 2024</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          236 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          2 minute read
+        </span>
+    </div>
+
     
-        <img class="avatar" alt="avatar" src="/images/avatar.png" />
     
 
-    <h1>Viz Dojo</h1>
+
+    <div class="content">
+      <p><strong>Host VPN on your own VPS</strong></p>
+<p><strong>OpenVPN</strong></p>
+<p>OpenVPN is an open-source commercial software that implements virtual private network (VPN) techniques.</p>
+<p><strong>DigitalOcean</strong></p>
+<p>Since we are going to host our own VPN, first we need a server, and DigitalOcean is easy to start with, you can also try AWS or Google Cloud if you want more options.</p>
+<p>Sign Up for DigitalOcean account.
+<a href="https://m.do.co/c/33207b814f8b" target="_blank" rel="noopener">https://m.do.co/c/33207b814f8b</a> if you use this link, you will get $200 for 60 days.</p>
+<ul>
+<li>Step 1 : Creating cloud server with OpenVPN enabled on DigitalOcean</li>
+</ul>
+<p>After you create your account, go straight to CREATE &gt; DROPLETS to create a “droplet” — cloud server.</p>
+<ul>
+<li>Step 2: Choose OpenVPN Access Server Image</li>
+</ul>
+<p>There’s already an image that support OpenVPN. Marketplace &gt; choose OpenVPN Access Server. So you do not need to do it youself.</p>
+<p>Choose the one setup for your needs, for me I go for the cheapest one.</p>
+<ul>
+<li>
+<p>Step 3: Login to your Droplet with ssh (console)
+Setup your openvpn, mostly answers are default, you will need to enter IP, thats it.</p>
+</li>
+<li>
+<p>Step 4: From your browser, open <em>https://<!-- raw HTML omitted -->/admin</em>.</p>
+</li>
+<li>
+<p>Step 5: Setup your users and download config file.</p>
+</li>
+<li>
+<p>Step 6: <em>https://<!-- raw HTML omitted --></em> enter, and download suitable client.</p>
+</li>
+</ul>
+<p>Now you have your self hosted VPN without and spoofing.</p>
+<p>You can even google to disable logs. It will be more convenient.</p>
+<p>You may ask, why not to use any VPN provider? I will write about it in the next post.</p>
+<hr>
+<p>🌊⛰🔥</p>
+
+    </div>
+
+    
+        <div class="tags">
+            
+                <a href="tags/setup">setup</a>
+            
+                <a href="tags/vpn">vpn</a>
+            
+        </div>
     
     
-</header>
-<section id="tags">
-      
-      
-          
-              <span class="tag">
-                  <a href="/tags/security">
-                    SECURITY <span>(5)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/setup">
-                    SETUP <span>(5)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/web3">
-                    WEB3 <span>(2)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/chess">
-                    CHESS <span>(1)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/diablo">
-                    DIABLO <span>(1)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/emf">
-                    EMF <span>(1)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/health">
-                    HEALTH <span>(1)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/home">
-                    HOME <span>(1)</span>
-                </a>
-              </span>
-          
-      
-          
-              <span class="tag">
-                  <a href="/tags/vpn">
-                    VPN <span>(1)</span>
-                </a>
-              </span>
-          
-      
+    
+
 </section>
+
 
     </main>
     
